@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-👉 [Click here to try it live!](https://manju200417.pythonanywhere.com)
+ [Click here to try it live!](https://manju200417.pythonanywhere.com)
 
 ---
 
@@ -15,7 +15,7 @@
 -  Built with Flask + OpenWeatherMap API
 
 ---
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Backend**: Python 3 + Flask
 - **Frontend**: HTML + CSS (custom design)
@@ -23,15 +23,15 @@
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
-### 🖥️ Requirements
+###  Requirements
 
 - Python 3.7+
 - Flask
 - requests
 
-### ⚙️ Installation
+###  Installation
 
 ```bash
 git clone https://github.com/yourusername/flask-weather-app.git
