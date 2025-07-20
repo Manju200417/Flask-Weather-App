@@ -2,7 +2,7 @@
 
 ## Live Demo
 
- [Click here to try it live!](https://manju200417.pythonanywhere.com)
+ [Click here to try it live!](https://flask-weather-app-cr6e.onrender.com/)
 
 ---
 
