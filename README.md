@@ -2,7 +2,7 @@
 
 ## Live Demo
 
- [Click here to try it live!](https://flask-weather-app-cr6e.onrender.com/)
+ [Click here to try it live!](https://flask-weather-app-gzgf.onrender.com)
 
 ---
 
