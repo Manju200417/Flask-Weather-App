@@ -1,10 +1,11 @@
 from flask import Flask,render_template,request
 import requests as re
+from dotenv import load_dotenv
 import os
 
 load_dotenv()
 
-API_KEY = os.getenv("WEATHER_API_KEY")
+API_KEY = os.getenv("API_KEY")
 
 app = Flask(__name__)
 
@@ -39,4 +40,6 @@ def main():
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000, debug=False)
+
+
 

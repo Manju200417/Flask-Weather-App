@@ -15,6 +15,11 @@
 -  Built with Flask + OpenWeatherMap API
 
 ---
+##  Use Your Own API Key
+
+This project requires an API key to fetch weather data.
+
+---
 ##  Tech Stack
 
 - **Backend**: Python 3 + Flask
